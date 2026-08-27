@@ -29,7 +29,7 @@ Aqui estão as tecnologias que estou estudando e utilizando nos meus projetos:
 
 Fique à vontade para se conectar comigo para trocarmos ideias, experiências ou falarmos sobre tecnologia:
 
-- 💼 **LinkedIn:** [[https://www.linkedin.com/in/rafaelvieiradasilva/]](https://www.linkedin.com/in/rafaelvieiradasilva/)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/rafaelvieiradasilva/](https://www.linkedin.com/in/rafaelvieiradasilva/)
 - 📝 **Dev.to:** [https://dev.to/rafaelvieira](https://dev.to/rafaelvieira)
 - 📸 **Instagram:**[https://instagram.com/silveiira.zl]
 - 📧 **E-mail:** [rafavieiras@gmail.com](mailto:rafavieiras@gmail.com)
