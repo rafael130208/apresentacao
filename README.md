@@ -9,7 +9,7 @@ Olá! Eu sou Rafael vieira da silva 👋
 
 Sou um estudante de Ciencias da computação (bacharelado) *cursando 2 semestre* 
 
-🛠️ Linguagens e Ferramentas
+🛠️ Linguagens e Ferramentas (APRENDENDO)
 
 *Front-end:* HTML, CSS, JavaScript, React 
 
