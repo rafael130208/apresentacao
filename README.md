@@ -29,11 +29,11 @@ Aqui estão as tecnologias que estou estudando e utilizando nos meus projetos:
 
 Fique à vontade para se conectar comigo para trocarmos ideias, experiências ou falarmos sobre tecnologia:
 
-- 💼 **LinkedIn:** [Meu Nome ou Link do LinkedIn](https://www.linkedin.com/in/rafaelvieiradasilva/)
-- 📝 **Dev.to:** [Meu Perfil no Dev.to](https://dev.to/rafaelvieira)
-- 📸 **Instagram:** [@Meu_usuario](https://instagram.com/silveiira.zl)
-- 📧 **E-mail:** [Meu.email@gmail.com](mailto:rafavieiras@gmail.com)
-- 📱 **WhatsApp:** [(XX) 9XXXX-XXXX](https://wa.me/5511990164240)
+- 💼 **LinkedIn:** [[https://www.linkedin.com/in/rafaelvieiradasilva/]](https://www.linkedin.com/in/rafaelvieiradasilva/)
+- 📝 **Dev.to:** [https://dev.to/rafaelvieira](https://dev.to/rafaelvieira)
+- 📸 **Instagram:** [https://instagram.com/silveiira.zl]([https://instagram.com/silveiira.zl])
+- 📧 **E-mail:** [rafavieiras@gmail.com](mailto:rafavieiras@gmail.com)
+- 📱 **WhatsApp:** [(55) 11-99016-4240](https://wa.me/5511990164240)
 
 ---
 ⭐️ *Obrigado por visitar meu perfil!*
