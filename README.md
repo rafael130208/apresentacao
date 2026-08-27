@@ -7,7 +7,8 @@ Olá! Eu sou Rafael vieira da silva 👋
 
  👨‍💻 Quem sou eu?
 
-Sou um estudante de Ciencias da computação (bacharelado) *cursando 2 semestre* 
+Sou um estudante de Ciencias da computação (bacharelado) *cursando 2 semestre* , sem experiencia no mercado de trabalho
+
 
 🛠️ Linguagens e Ferramentas (APRENDENDO)
 
