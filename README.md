@@ -1,36 +1,39 @@
+# Olá! Eu sou o Rafael Vieira da Silva 👋
 
+Estudante de Ciência da Computação | Desenvolvedor em Formação
 
+## 👨‍💻 Quem sou eu?
 
-Olá! Eu sou Rafael vieira da silva 👋
+- 🎓 Cursando o **2º semestre do Bacharelado em Ciência da Computação**.
+- 🌱 Atualmente construindo minha base de conhecimentos e buscando minha primeira oportunidade no mercado de tecnologia.
+- 💡 Apaixonado por resolver problemas e criar soluções através do código.
 
+## 🛠️ Tecnologias e Ferramentas (Em aprendizado)
 
+Aqui estão as tecnologias que estou estudando e utilizando nos meus projetos:
 
- 👨‍💻 Quem sou eu?
+**Front-end:**
+- HTML, CSS, JavaScript
 
-Sou um estudante de Ciencias da computação (bacharelado) *cursando 2 semestre* , sem experiencia no mercado de trabalho
+**Back-end:**
+- Python, Node.js
 
+**Design e Interface:**
+- Figma
 
- 🛠️ Linguagens e Ferramentas (APRENDENDO)
+**Ferramentas e Práticas:**
+- Git, VS Code
+- Metodologias Ágeis
 
-*Front-end:* HTML, CSS, JavaScript,  
+## 📫 Como me encontrar
 
-*Back-end:* Python, Node.js
+Fique à vontade para se conectar comigo para trocarmos ideias, experiências ou falarmos sobre tecnologia:
 
-Design: Figma
+- 💼 **LinkedIn:** [Seu Nome ou Link do LinkedIn](https://www.linkedin.com/in/rafaelvieiradasilva/)
+- 📝 **Dev.to:** [Seu Perfil no Dev.to](https://dev.to/rafaelvieira)
+- 📸 **Instagram:** [@seu_usuario](https://instagram.com/silveiira.zl)
+- 📧 **E-mail:** [seu.email@gmail.com](mailto:rafavieiras@gmail.com)
+- 📱 **WhatsApp:** [(XX) 9XXXX-XXXX](https://wa.me/5511990164240)
 
-Outros: Git, Metodologias Ágeis , linkedin, dev.to
-
-
-
-### 📫 Como me encontrar
-
-[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:rafavieira1302@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](/](https://www.linkedin.com/in/rafaelvieiradasilva/))
-
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/seunumerodecelular)](https://wa.me/11990164240)
-
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/rafaelvieira)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seuperfil)](https://instagram.com/silveiira.zl)
-
+---
+⭐️ *Obrigado por visitar meu perfil!*
