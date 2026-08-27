@@ -10,15 +10,15 @@ Olá! Eu sou Rafael vieira da silva 👋
 Sou um estudante de Ciencias da computação (bacharelado) *cursando 2 semestre* , sem experiencia no mercado de trabalho
 
 
-🛠️ Linguagens e Ferramentas (APRENDENDO)
+ 🛠️ Linguagens e Ferramentas (APRENDENDO)
 
-*Front-end:* HTML, CSS, JavaScript, React 
+*Front-end:* HTML, CSS, JavaScript,  
 
 *Back-end:* Python, Node.js
 
-*Design:* Figma
+Design: Figma
 
-*Outros:* Git, Metodologias Ágeis
+Outros: Git, Metodologias Ágeis , linkedin, dev.to
 
 
 
@@ -26,7 +26,7 @@ Sou um estudante de Ciencias da computação (bacharelado) *cursando 2 semestre*
 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:rafavieira1302@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://www.linkedin.com/in/rafael-vieira-5395423a4/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](/](https://www.linkedin.com/in/rafaelvieiradasilva/))
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/seunumerodecelular)](https://wa.me/11990164240)
 
